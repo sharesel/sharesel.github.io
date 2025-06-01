@@ -1,7 +1,8 @@
 # SHARESE LEWIS  
 ### Cybersecurity & Cloud Security Professional  
 
-![Profile Picture](./assets/profile.png)
+![Profile Picture]![My project copy-2](https://github.com/user-attachments/assets/c3eebc8b-bc88-4f04-ae47-a7bb2515a15c)
+(./assets/profile.png)
 
 ---
 
