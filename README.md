@@ -1,7 +1,12 @@
 # SHARESE LEWIS  
 ### Cybersecurity & Cloud Security Professional  
 
-[My project copy-2 2](https://github.com/user-attachments/assets/085d6fc3-a180-466a-9af8-0eb7a8e8429a)
+<p align="center">
+  <img src="./assets/profile.png" alt="Sharese Lewis" width="180" style="border-radius: 50%;">
+</p>
+
+<h1 align="center">SHARESE LEWIS</h1>
+<h3 align="center">Cybersecurity & Cloud Security Professional</h3>
 
 ---
 
