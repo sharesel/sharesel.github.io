@@ -2,7 +2,7 @@
 ### Cybersecurity & Cloud Security Professional  
 
 <p align="center">
-  <img src="/Users/shareselewis/Downloads/My\ project\ copy-2.JPEG" alt="Sharese Lewis" width="180" style="border-radius: 50%;">
+  <img src="My project copy-2.JPEG" alt="Sharese Lewis" width="180" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">SHARESE LEWIS</h1>
