@@ -8,7 +8,8 @@ I’m a Cybersecurity professional with a passion for cloud infrastructure and a
 
 As a SOC Analyst Intern, I’ve deployed Elastic Agents, configured Linux-based log monitoring, and fine-tuned detection tools like Suricata. On the cloud side, I’ve worked with GCP for storage provisioning, lifecycle management, and serverless deployment. My research includes AI threats in AWS using OWASP’s AI Top 10 and IBM models.
 
-Whether I’m building a job board app to connect others to careers or leading digital engagement for my community, I bring initiative, curiosity, and a drive to secure and innovate. I’m seeking an Associate role in Cloud or AI — ideally at a mission-driven tech company
+Whether I’m building a job board app for fun to hopefully connect others to careers or leading digital engagement for my community, I bring initiative, curiosity, and a drive to secure and innovate. I’m seeking an Associate role in Cloud or AI — ideally at a mission-driven tech company.
+---
 
 ## 📘 Projects  
 - [Deploying a VM in GCP](./projects/gcp-vm)  
@@ -16,11 +17,6 @@ Whether I’m building a job board app to connect others to careers or leading d
 - [AI Malware Detection with Scikit-learn](./projects/ai-malware-detection)  
 
 > Videos and screenshots coming soon.
-
----
-
-## 👩🏾‍💻 About Me  
-I’m a passionate cybersecurity professional with a background in education and a deep focus on cloud security, AI applications, and SOC operations...
 
 ---
 
