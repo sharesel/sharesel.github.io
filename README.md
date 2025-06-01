@@ -1,5 +1,5 @@
 # SHARESE LEWIS  
-### Cybersecurity & Cloud Security Professional  
+### B.S. (Cybersecurity), cum laude
 
 <p align="center">
   <img src="sharese-circular.png" alt="Sharese Lewis" width="180" height="180">
