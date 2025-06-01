@@ -2,7 +2,8 @@
 ### Cybersecurity & Cloud Security Professional  
 
 <p align="center">
-  <img src="./assets/profile.png" alt="Sharese Lewis" width="180" style="border-radius: 50%;">
+  <img src="./asset![My project copy-2](https://github.com/user-attachments/assets/7010e3cb-81ef-4e80-9bec-d84af9e1b088)
+s/profile.png" alt="Sharese Lewis" width="180" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">SHARESE LEWIS</h1>
