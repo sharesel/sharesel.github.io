@@ -22,6 +22,6 @@ Whether I’m building a job board app for fun to hopefully connect others to ca
 ---
 
 ## 📫 Contact Me  
-- [LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shareselewis/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shareselewis/)  
 - [Resume](https://YOUR-RESUME-LINK-HERE)  
 - [Email Me](mailto:sharese.tech@gmail.com)
