@@ -1,7 +1,3 @@
----
-Sharese Lewis – Cybersecurity Portfolio
----
-
 # Welcome to My Cybersecurity Portfolio 🚀
 
 <img src="sharese-circular.png" alt="Profile picture" width="180" />
