@@ -12,7 +12,6 @@ Whether I’m building a job board app for fun to hopefully connect others to ca
 
 
 ---
-
 ## 📘 Projects  
 - [Deploying a VM in GCP](./projects/gcp-vm)  
 - [Cloud Computing & AWS EC2](./projects/aws-ec2)  
