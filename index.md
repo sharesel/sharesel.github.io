@@ -2,7 +2,7 @@
 
 <img src="sharese-circular.png" alt="Profile picture" width="180" />
 
-# Hello, I'm Sharese Lewis! 👋   
+# Hello, I'm Sharese! 👋   
 ### Cybersecurity & Cloud Security Professional :lock: :cloud:
 I’m a Cybersecurity professional with a passion for cloud infrastructure and applied AI. After 13 years in education, I pivoted into tech — graduating with a B.S. in Cybersecurity from UNCW and gaining hands-on experience in blue team operations, cloud security, and adversarial machine learning.
 
