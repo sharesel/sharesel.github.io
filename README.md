@@ -2,7 +2,7 @@
 ### Cybersecurity & Cloud Security Professional  
 
 <p align="center">
-  <img src="My project copy-2.JPEG" alt="Sharese Lewis" width="180" height="180">
+  <img src="sharese-circular.png" alt="Sharese Lewis" width="180" height="180">
 </p>
 
 <h1 align="center">SHARESE LEWIS</h1>
