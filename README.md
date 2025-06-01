@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me  
-I’m a passionate cybersecurity professional with a background in education and a deep focus on cloud security, AI applications, and SOC operations. I recently earned my B.S. in Cybersecurity from the University of North Carolina Wilmington and have completed hands-on projects involving AWS, GCP, Python automation, adversarial ML, and systems hardening. I bring a unique blend of teaching experience and technical skill, and I’m currently seeking Associate-level opportunities at Red Hat or other cloud-first organizations.
+I’m a passionate cybersecurity professional with a background in education and a deep focus on cloud security, AI applications, and SOC operations. I recently earned my B.S. in Cybersecurity from the University of North Carolina Wilmington and have completed hands-on projects involving AWS, GCP, Python automation, adversarial ML, and systems hardening. I bring a unique blend of teaching experience and technical skill, and I’m currently seeking Associate-level opportunities at cloud-first organizations.
 
 ---
 
