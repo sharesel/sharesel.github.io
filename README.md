@@ -29,7 +29,7 @@ _(More projects coming soon...)_
 ---
 
 ## 📬 Hire Me  
-- 🌐 [LinkedIn][(http://www.linkedin.com/in/shareselewis)]
+- 🌐 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/shareselewis)
 - 📄 [Resume (PDF)](https://YOUR-RESUME-LINK-HERE)
 - 📧 [Email Me](mailto:sharese.tech@gmail.com)
 
