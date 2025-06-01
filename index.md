@@ -2,10 +2,8 @@
 
 <img src="sharese-circular.png" alt="Profile picture" width="180" />
 
-## Hello, I’m **SHARESE LEWIS**  
+## Hello! I’m **SHARESE LEWIS**  
 ### Cybersecurity & Cloud Security Professional
-
----
 
 ## 📘 Projects  
 - [Deploying a VM in GCP](./projects/gcp-vm)  
