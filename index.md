@@ -1,11 +1,10 @@
 ---
-layout: default
-title: Sharese Lewis – Cybersecurity Portfolio
+Sharese Lewis – Cybersecurity Portfolio
 ---
 
 # Welcome to My Cybersecurity Portfolio 🚀
 
-<img src="./assets/profile.png" alt="Profile picture" width="180" />
+<img src="sharese-circular.png" alt="Profile picture" width="180" />
 
 ## Hello, I’m **SHARESE LEWIS**  
 ### Cybersecurity & Cloud Security Professional
