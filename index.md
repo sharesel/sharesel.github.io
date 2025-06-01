@@ -3,7 +3,7 @@
 <img src="sharese-circular.png" alt="Profile picture" width="180" />
 
 # Hello, I'm Sharese! 👋   
-### Cybersecurity & Cloud Security Professional :lock: :cloud:
+### Cybersecurity & Cloud Security Professional 🔒 ☁️
 I’m a Cybersecurity professional with a passion for cloud infrastructure and applied AI. After 13 years in education, I pivoted into tech — graduating with a B.S. in Cybersecurity from UNCW and gaining hands-on experience in blue team operations, cloud security, and adversarial machine learning.
 
 As a SOC Analyst Intern, I’ve deployed Elastic Agents, configured Linux-based log monitoring, and fine-tuned detection tools like Suricata. On the cloud side, I’ve worked with GCP for storage provisioning, lifecycle management, and serverless deployment. My research includes AI threats in AWS using OWASP’s AI Top 10 and IBM models.
