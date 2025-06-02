@@ -1,6 +1,6 @@
 <img src="sharese-circular.png" alt="Profile Photo" width="160" style="border-radius: 50%;" align="left" />
 
-#👩🏾‍💻 Sharese L. – Cybersecurity Graduate
+# 👩🏾‍💻 Sharese L. – Cybersecurity Graduate
 
 Welcome! I’m a recent **Cybersecurity graduate** passionate about securing cloud systems, using AI to detect threats, and solving real-world problems in enterprise environments. I’ve completed hands-on projects in:
 
