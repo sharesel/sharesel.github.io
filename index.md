@@ -1,15 +1,13 @@
-# Welcome to My Cybersecurity Portfolio 🚀
+<img src="your-profile-photo.png" alt="Profile Photo" width="160" style="border-radius: 50%;" align="right" />
 
-<img src="sharese-circular.png" alt="Profile picture" width="180" />
+# 👩🏾‍💻 Sharese L. – Cybersecurity Graduate
 
-# Hello, I'm Sharese! 👋   
-### Cybersecurity & Cloud Security Professional 🔒 ☁️
-I’m a Cybersecurity professional with a passion for cloud infrastructure and applied AI. After 13 years in education, I pivoted into tech — graduating with a B.S. in Cybersecurity from UNCW and gaining hands-on experience in blue team operations, cloud security, and adversarial machine learning.
+Welcome! I’m a recent **Cybersecurity graduate** passionate about securing cloud systems, using AI to detect threats, and solving real-world problems in enterprise environments. I’ve completed hands-on projects in:
 
-As a SOC Analyst Intern, I’ve deployed Elastic Agents, configured Linux-based log monitoring, and fine-tuned detection tools like Suricata. On the cloud side, I’ve worked with GCP for storage provisioning, lifecycle management, and serverless deployment. My research includes AI threats in AWS using OWASP’s AI Top 10 and IBM models.
-
-Whether I’m building a job board app for fun to hopefully connect others to careers or leading digital engagement for my community, I bring initiative, curiosity, and a drive to secure and innovate. I’m seeking an Associate role in Cloud or AI — ideally at a mission-driven tech company.
-
+- ☁️ **Cloud Computing** (AWS, Azure, GCP)
+- 🧠 **AI in Cybersecurity** (adversarial ML, anomaly detection)
+- 🛡 **SOC Internship** (log analysis, threat hunting)
+- 🧰 **Systems Security** (Linux/Windows hardening, firewall tuning)
 
 ---
 ## 📘 Projects  
