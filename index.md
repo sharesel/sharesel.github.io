@@ -1,6 +1,6 @@
 <img src="sharese-circular.png" alt="Profile Photo" width="180" style="border-radius: 50%;" align="left" />
 
-# 👩🏾‍💻 B.S. (Cybersecurity), cum laude
+## 👩🏾‍💻 B.S. (Cybersecurity), cum laude
 
 
 Welcome! I’m a recent **Cybersecurity graduate** passionate about securing cloud systems, using AI to detect threats, and solving real-world problems in enterprise environments. I’ve completed hands-on projects in:
