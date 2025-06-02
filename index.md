@@ -1,4 +1,4 @@
-<img src="sharese-circular.png" alt="Profile Photo" width="200" align="left" />
+<img src="sharese-circular.png" alt="Profile Photo" width="200" />
 
 ### 👩🏾‍💻 B.S. (Cybersecurity), cum laude
 
